@@ -36,6 +36,16 @@ cd AlgoVisualizer
 npm install
 npm start
 
+## 🎓 Purpose
+This project was built to help **students and learners understand algorithms visually**.  
+Instead of just reading theory, users can interact with **Pathfinding, Sorting, and AI algorithms** step by step.  
+
+For me, this project demonstrates:  
+- Strong grasp of **data structures & algorithms**  
+- Ability to turn concepts into an **interactive React app**  
+- Skills in **frontend development, visualization, and deployment**  
+
+
 
 
 
