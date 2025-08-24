@@ -33,8 +33,10 @@ Instead of just reading theory, users can interact with **Pathfinding, Sorting, 
 For me, this project demonstrates:  
 - Strong grasp of **data structures & algorithms**  
 - Ability to turn concepts into an **interactive React app**  
-- Skills in **frontend development, visualization, and deployment**  
+- Skills in **frontend development, visualization, and deployment**
 
+## 🔒 License
+This project is licensed under the MIT License.
 
 ## ⚙️ Getting Started (Local Development)
 
